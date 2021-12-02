@@ -15,10 +15,6 @@ CLOSED: [2021-11-29 周一 13:25]
 DEADLINE: <2021-11-30 周二>
      - [ ] subtask 1
      - [ ] subtask 1
-     - [x] subtask 1
-     - [ ] subtask 1
-     - [ ] subtask 2
-     - [ ] subtask 1
      - [ ] subtask 1
      - [ ] subtask 1
 
