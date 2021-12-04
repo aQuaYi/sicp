@@ -27,8 +27,3 @@
 
 (sum-of-bigger2 3 2 1)
 ;; => 5
-
-(defn make-user
-      [& [user-id]]
-      {:user-id (or user-id
-                          (str java.util.UUID/randomUUID)))})
