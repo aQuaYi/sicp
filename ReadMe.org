@@ -1,20 +1,8 @@
 * 使用 Clojure 完成 SICP 上的习题
-
-** 表格
-
-| col 1        | col2      | col3     |
-| ----------   |           |          |
-| adsfasdfasdf | aasdfasdf | asdfasdf |
-|              |           |          |
-
-* tasks
-** DONE this is a ask
-CLOSED: [2021-11-29 周一 13:25]
-** DONE this is a done task
-** TODO hsi [0/8] [0%]
-DEADLINE: <2021-11-30 周二>
-     - [ ] subtask 1
-     - [ ] subtask 1
-     - [ ] subtask 1
-     - [ ] subtask 1
-
+** second level headline
+*** third level headline
+     just a text
+* another top level headline
+** TODO Cat Foods
+** TODO Cat Towers
+** Cat Toilets
